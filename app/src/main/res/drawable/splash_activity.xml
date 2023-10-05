@@ -7,7 +7,6 @@
     <ImageView
         android:src="@drawable/logo"
         android:scaleType="fitXY"
-        android:contentDescription="@null"
         android:layout_gravity="center"
     />
 
