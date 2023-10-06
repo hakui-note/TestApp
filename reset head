@@ -1,0 +1,29 @@
+[33mcommit 4fb4c189c81b0e0280a89fc948f24973780b7b38[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: hakui <d.conan.ryotaro@gmail.com>
+Date:   Thu Oct 5 11:01:45 2023 +0900
+
+    change ic_launcher.xml
+
+[33mcommit 6bcab206cf1fc9e909d29a63eb2ac2c0c76a2039[m
+Author: hakui <d.conan.ryotaro@gmail.com>
+Date:   Thu Oct 5 11:00:54 2023 +0900
+
+    add splash_activity.xml
+
+[33mcommit 16351cae53356dbd4fbb32de5ce6ffde7456f9ce[m
+Author: hakui <d.conan.ryotaro@gmail.com>
+Date:   Thu Oct 5 10:23:40 2023 +0900
+
+    add logo
+
+[33mcommit 1b3e2f7d68df9054509e9a3c56b12ee7a6dae018[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: hakui <d.conan.ryotaro@gmail.com>
+Date:   Wed Oct 4 15:44:29 2023 +0900
+
+    first commit
+
+[33mcommit 872d3c312ba408cd0016b42644ecef5600e591da[m
+Author: hakui <d.conan.ryotaro@gmail.com>
+Date:   Wed Oct 4 15:26:01 2023 +0900
+
+    first commit
